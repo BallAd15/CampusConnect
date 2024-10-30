@@ -1,0 +1,12 @@
+llama_index
+pinecone-client
+llama-index-vector-stores-pinecone
+python-dotenv
+transformers
+torch
+llama-index-embeddings-huggingface
+fastapi
+uvicorn
+sentence_transformers
+ollama
+google-generativeai
